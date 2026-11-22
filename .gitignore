@@ -1,0 +1,9 @@
+/.codecrafters/
+/codecrafters.yml
+
+*.swp
+*.swo
+*.swn
+
+node_modules/
+.env
